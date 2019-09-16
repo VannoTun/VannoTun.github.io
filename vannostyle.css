@@ -3,3 +3,6 @@ body { background-color: green;}
 #vanno-table { width: 800px;}
 
 #vanno-td { width: 200px; text-align: center;}
+
+#vanno-body {
+ background-image: url("paper.gif");}
