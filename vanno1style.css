@@ -8,10 +8,12 @@
 
 #vanno-td { width: 200px; text-align: center;}
 
-#vannotun { float: left;}
+#vannotun { float: left;
+            margin-right: 5px;}
 
 #DSC_1027 { float: right;}
 
-#DSC_0173 { float: left;}
+#DSC_0173 { float: left;
+            margin-right: 5px;}
 
 #VandaraOneGunGone { float: right;}
